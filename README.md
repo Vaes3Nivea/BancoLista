@@ -1,4 +1,4 @@
-#Banco_lista
+#Banco
 
 class Cliente:
   def __init__(self, nome, telefone):
